@@ -1,0 +1,4 @@
+Control de ingresos — versión independiente de demostración para octubre 2026.
+Abrir index.html en navegador para probar. Para instalar como app en iPhone, publicar la carpeta en un hosting HTTPS y en Safari usar Compartir > Añadir a pantalla de inicio.
+Esta versión no es una modificación del ZIP anterior: no contiene ni importa automáticamente sus datos. Antes de reemplazar la app anterior, conservar su respaldo.
+Los datos nuevos se guardan localmente en el navegador. Usar Exportar respaldo con frecuencia.
