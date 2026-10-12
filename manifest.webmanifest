@@ -1,12 +1,12 @@
 {
-  "name": "DeliverPro · Mi Meta",
+  "name": "DeliverPro Express · Mi Meta",
   "short_name": "DeliverPro",
   "description": "Calendario de ingresos y meta automática",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1220",
-  "theme_color": "#0b1220",
+  "background_color": "#060a11",
+  "theme_color": "#060a11",
   "icons": [
     {
       "src": "icon.png",

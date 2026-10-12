@@ -1,8 +1,7 @@
-# DeliverPro · Mi Meta
+DeliverPro Express — Proyecto completo
 
-Aplicación de control de ingresos con calendario y meta diaria dinámica.
+Sube los siete archivos de esta carpeta a la raíz de tu repositorio GitHub Pages (main). No subas la carpeta contenedora.
 
-## Publicar actualización en GitHub
-Sube los archivos de esta carpeta a la **raíz** del repositorio, reemplazando los archivos que tengan el mismo nombre. No subas la carpeta contenedora como subcarpeta.
+Incluye el logo original aportado por el usuario, calendario interactivo, meta total, total acumulado, ingresos editables y exportación CSV.
 
-Los ingresos se guardan localmente en el navegador/dispositivo, no en GitHub. Antes de reemplazar o reinstalar, haz una copia de tus registros.
+Los ingresos se guardan localmente en el navegador. Antes de actualizar, exporta tu CSV. No borres la app instalada.
